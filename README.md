@@ -3,12 +3,9 @@
 2. 소변검사를 이용하여 서버에서**사용자 건강상태**를 분석
 3. 마지막으로 결과값을 입력받은 번호로 전송
 
-<<<<<<< HEAD
 ![alt text](http://jlcxwb.co.kr/n_news/peg/1511/3068dc2c436a6a4db34ada85afb507aa_DCAE48hTldy8a7OUu4G7Uvc.JPG "Img")
 >http://jlcxwb.co.kr/n_news/news/view.html?no=3940
 
-=======
->>>>>>> aad8858f5d65d7cc43539d02b5c4321fdb85ca77
 [기존제품 특허 보러 가기](https://goo.gl/fWAi4i)
 
 *개발자들*
